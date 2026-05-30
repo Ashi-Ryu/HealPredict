@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: HealPredict
+## Notes: Incoming heal prediction and overheal display on default UI unit frames
+## Author: Ashi
+## Version: 1.0.0
+
+HealPredict.lua
